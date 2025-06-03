@@ -1,6 +1,9 @@
 # Pong_Logisim
 Pong made in Logisim
 
+# Video do Logisim
+https://www.youtube.com/watch?v=fOuSzMTAdDM
+
 ## Principais componentes do circuito
 ### 1. Pinos de Entrada (Pin)
 Você tem vários pinos de entrada, rotulados como:
